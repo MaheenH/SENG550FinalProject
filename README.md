@@ -1,4 +1,4 @@
-# SENG550FinalProject
+# Fall 2024 SENG550 Final Project
 
 This is a repository for the SENG 550 Final Project, completed by:
 
